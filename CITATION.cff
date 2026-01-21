@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "Shared Risks of Unrestrained Plasticity in Bipolar Disorder and Language Model Alignment"
+abstract: "Cross-Domain Kindling: Recurrent Simulations Reveal Shared Risks of Unrestrained Plasticity in Bipolar Disorder and Language Model Alignment."
+type: software
+authors:
+  - family-names: "Cheung"
+    given-names: "Ngo"
+repository-code: "https://github.com/cheungngo/Shared-Risks-of-Unrestrained-Plasticity-in-Bipolar-Disorder-and-Language-Model-Alignment.git"
+license: "CC-BY-4.0"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Cheung"
+      given-names: "Ngo"
+  year: 2026
+  title: "Cross-Domain Kindling: Recurrent Simulations Reveal Shared Risks of Unrestrained Plasticity in Bipolar Disorder and Language Model Alignment"
+  publisher: "Zenodo"
+  doi: "10.5281/zenodo.18323482"
+  url: "https://doi.org/10.5281/zenodo.18323482"
